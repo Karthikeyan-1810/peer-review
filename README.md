@@ -62,6 +62,12 @@ and there would be several lines in the terminal saying
 `Start downloading image!`    
 `Waiting.......`    
 `Download completed!`      
-The downloaded file would be stored in the folder `Client_file_cache`.   
+The downloaded file would be stored in the folder `Client_file_cache`.
+
+#### Backdoors and possible vulnerabilities
+1. If the attacker knows your username, there might be a way to login without correct password.
+2. If you enter some specific commands in the main chatbox, there exists a seceret patton to shut down the application.
+3. After connected to other users or groups, if you send a rude word to other users, you would be asked to disconnected from the server.
 
 ##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au)
+##### We are sorry that as beginners in this subject, our limited abilities are not able to achieve all the requirements. We would be appreciated if you could point out the shortcomings and give detailed code or suggestions for improvement.
