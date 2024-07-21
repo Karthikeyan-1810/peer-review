@@ -2,6 +2,8 @@
 
 ## This is an assignment of developing a chat application of secure programming
 
+##### Github url: https://github.com/RinnkiX/ChatProgram.git
+
 ##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au; Yuhang Chen, a1914212@adelaide.edu.au)
 
 ### Install and run
