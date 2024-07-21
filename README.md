@@ -2,7 +2,7 @@
 
 ## This is an assignment of developing a chat application of secure programming
 
-##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au)
+##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au; Yuhang Chen, a1914212@adelaide.edu.au)
 
 ### Install and run
 
@@ -41,15 +41,17 @@ If not, the sentence would be
 
 3. If you want to broadcast messages, simply connect to multiple users to create a chat group. Messages would be displayed on all users' chat box.
 
-7. If you want to disconnect from other users, enter "bye" in the input box and click `Send`, while the other user would be informed.
+4. If you want to disconnect from other users, enter "bye" in the input box and click `Send`, while the other user would be informed.
 
-8. If you want to leave the chatroom, click `Leave` button on the right to end the client program.
+5. If you want to leave the chatroom, click `Leave` button on the right to end the client program.
 
 #### File transfer
 
 This application includes two methods to transfer files. The file `text1.txt` in the main folder is an example file for transfer.  
+  
 ##### Method 1:  
-1. Click `Files` button and enter the file name(the file should be put under the main folder), then click `Transfer` to send. The file would be read and output as plain text message to other users that you are connected.  
+1. Click `Files` button and enter the file name(the file should be put under the main folder), then click `Transfer` to send. The file would be read and output as plain text message to other users that you are connected.
+  
 ##### Method 2:    
 1. Click `Upload` button at the bottom and select the file in the user interface. If succeeded, there would be a line in the chatbox says  
 `username put: filename`  
@@ -72,4 +74,4 @@ The downloaded file would be stored in the folder `Client_file_cache`.
 3. After connected to other users or groups, if you send a rude word to other users, you would be asked to disconnected from the server.
 4. Also after connection, there exists possible XSS attacks if user send malicious python code from the input box.
 
-##### We are sorry that as beginners in this subject, our limited abilities are not able to achieve all the requirements. We would be appreciated if you could point out the shortcomings and give detailed code or suggestions for improvement.
+##### We are sorry that as beginners in this subject, we have already try our best but our limited abilities are not able to achieve every requirements. We would be appreciated if you could point out the shortcomings and give detailed code or suggestions for improvement.
