@@ -2,6 +2,8 @@
 
 ## This is an assignment of developing a chat application of secure programming
 
+##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au)
+
 ### Install and run
 
 1. This application is all written in python. Initially, it is vital to input `pip install -r requirements.txt`  in terminal to add the  interpreters used in this application to your local environment.
@@ -70,5 +72,4 @@ The downloaded file would be stored in the folder `Client_file_cache`.
 3. After connected to other users or groups, if you send a rude word to other users, you would be asked to disconnected from the server.
 4. Also after connection, there exists possible XSS attacks if user send malicious python code from the input box.
 
-##### This application is developed and modified by Group 14 (in the sharing excel doucument), feel free for futher contact(Xin Wen, a1893343@adelaide.edu.au)
 ##### We are sorry that as beginners in this subject, our limited abilities are not able to achieve all the requirements. We would be appreciated if you could point out the shortcomings and give detailed code or suggestions for improvement.
