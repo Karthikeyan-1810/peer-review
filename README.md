@@ -15,7 +15,7 @@
 3. Enter `python chat_server.py` in terminal to run the chatting server, if succeeded there would be a line of   
 `starting server...`.
 
-4. Enter `file_server.py` in terminal to run the file server, if succeeded there would be a line of   
+4. Enter `python file_server.py` in terminal to run the file server, if succeeded there would be a line of   
 `File server starts running...`.  
 
 5. Enter `python chat_cmdl_client.py` in multiple terminals to run the clients, if succeeded the login user interface would be pushed.
